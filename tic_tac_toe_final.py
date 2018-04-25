@@ -113,6 +113,8 @@ while True:
         break
     
     full_board()
+    
+    #I'm just testing this git thing
     if full_board() == True:
         print("The board is full!")
         break
